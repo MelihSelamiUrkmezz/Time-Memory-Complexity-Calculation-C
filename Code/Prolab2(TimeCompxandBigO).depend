@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647776264 source:c:\users\melih\desktop\prolab2\prolab2(timecompxandbigo)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
